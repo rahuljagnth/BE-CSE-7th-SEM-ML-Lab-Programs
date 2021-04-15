@@ -1,0 +1,2 @@
+conda clean -a
+conda install -c ankurankan pgmpy
